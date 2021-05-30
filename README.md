@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:dlsdn166@gmail.com)
+- 📮  **Kiminwoo's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlsdn166@gmail.com)](mailto:dlsdn166@gmail.com)
+
+- 📒  **Kiminwoo's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://dlsdn73.tistory.com/)](https://dlsdn73.tistory.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
 
